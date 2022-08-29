@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sergey Demin
 - 👀 I’m interested in Python, PostgreSQL, Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sergei.demin1978@gmail.com
 
 <!---
