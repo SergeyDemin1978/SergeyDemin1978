@@ -1,5 +1,6 @@
 ### 👋 Hi there, I'm Sergey Demin!
 #### I'm a beginner Data Analyst
+- 🔭 I’m currently working on this page. 
 - 👀 I’m interested in Python, PostgreSQL, Machine Learning
 - 📫 How to reach me: sergei.demin1978@gmail.com
 
